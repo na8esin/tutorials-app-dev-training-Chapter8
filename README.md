@@ -7,4 +7,3 @@ Use this project to code along with [Transcribing Speech to Text](https://develo
 ## Change Log
 
 * Added a `SpeechRecognizer` class.
-
